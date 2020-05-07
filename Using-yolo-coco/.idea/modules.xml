@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Using-haarcascade/.idea/Using-haarcascade.iml" filepath="$PROJECT_DIR$/../Using-haarcascade/.idea/Using-haarcascade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Using-yolo-coco.iml" filepath="$PROJECT_DIR$/.idea/Using-yolo-coco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../yolo-object-detection/.idea/yolo-object-detection.iml" filepath="$PROJECT_DIR$/../../yolo-object-detection/.idea/yolo-object-detection.iml" />
+    </modules>
+  </component>
+</project>
